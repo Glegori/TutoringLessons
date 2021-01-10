@@ -1,0 +1,6 @@
+D:\Tutoring\Glegori\TutoringLessons\StringsVsInt\StringsVsInt\bin\Debug\StringsVsInt.exe.config
+D:\Tutoring\Glegori\TutoringLessons\StringsVsInt\StringsVsInt\bin\Debug\StringsVsInt.exe
+D:\Tutoring\Glegori\TutoringLessons\StringsVsInt\StringsVsInt\bin\Debug\StringsVsInt.pdb
+D:\Tutoring\Glegori\TutoringLessons\StringsVsInt\StringsVsInt\obj\Debug\StringsVsInt.csproj.CoreCompileInputs.cache
+D:\Tutoring\Glegori\TutoringLessons\StringsVsInt\StringsVsInt\obj\Debug\StringsVsInt.exe
+D:\Tutoring\Glegori\TutoringLessons\StringsVsInt\StringsVsInt\obj\Debug\StringsVsInt.pdb
