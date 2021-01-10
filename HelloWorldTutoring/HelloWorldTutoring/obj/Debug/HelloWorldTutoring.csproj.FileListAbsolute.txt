@@ -1,0 +1,7 @@
+D:\Tutoring\Glegori\TutoringLessons\HelloWorldTutoring\HelloWorldTutoring\bin\Debug\HelloWorldTutoring.exe.config
+D:\Tutoring\Glegori\TutoringLessons\HelloWorldTutoring\HelloWorldTutoring\bin\Debug\HelloWorldTutoring.exe
+D:\Tutoring\Glegori\TutoringLessons\HelloWorldTutoring\HelloWorldTutoring\bin\Debug\HelloWorldTutoring.pdb
+D:\Tutoring\Glegori\TutoringLessons\HelloWorldTutoring\HelloWorldTutoring\obj\Debug\HelloWorldTutoring.csprojAssemblyReference.cache
+D:\Tutoring\Glegori\TutoringLessons\HelloWorldTutoring\HelloWorldTutoring\obj\Debug\HelloWorldTutoring.csproj.CoreCompileInputs.cache
+D:\Tutoring\Glegori\TutoringLessons\HelloWorldTutoring\HelloWorldTutoring\obj\Debug\HelloWorldTutoring.exe
+D:\Tutoring\Glegori\TutoringLessons\HelloWorldTutoring\HelloWorldTutoring\obj\Debug\HelloWorldTutoring.pdb
